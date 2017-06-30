@@ -4,6 +4,8 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 
+import cc.rooho.app.R;
+
 /**
  * @author by cola 2017年06月29日 6:14 PM
  * @description :
